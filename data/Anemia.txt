@@ -1,5 +1,5 @@
 Anemia
-    
+Â Â Â Â 
 Anemia is a condition in which the body does not have enough healthy red blood cells. Red blood cells provide oxygen to body tissues.
 Different types of anemia include:
 * Anemia due to vitamin B12 deficiency
@@ -19,7 +19,7 @@ Healthy red blood cells last between 90 and 120 days. Parts of your body then re
 Hemoglobin is the oxygen-carrying protein inside red blood cells. It gives red blood cells their color. People with anemia do not have enough hemoglobin.
 
 The body needs certain vitamins, minerals, and nutrients to make enough red blood cells. Iron, vitamin B12, and folic acid are three of the most important ones. The body may not have enough of these nutrients due to:
-* Changes in the lining of the stomach or intestines that affect how well nutrients are absorbed (for example, celiac disease)
+* Changes in the lining of the stomach or intestines that affect how well nutrients are absorbed (for example,Â celiac disease)
 * Poor diet
 * Surgery that removes part of the stomach or intestines
 Possible causes of anemia include:
@@ -27,12 +27,12 @@ Possible causes of anemia include:
 * Vitamin B12 deficiency
 * Folate deficiency
 * Certain medicines
-* Destruction of red blood cells earlier than normal (which may be caused by immune system problems)
-* Long-term (chronic) diseases such as chronic kidney disease, cancer, ulcerative colitis, or rheumatoid arthritis
+* Destruction of red blood cellsÂ earlier than normal (which may be caused by immune system problems)
+* Long-term (chronic) diseases such as chronic kidney disease, cancer,Â ulcerative colitis, orÂ rheumatoid arthritis
 * Some forms of anemia, such as thalassemia or sickle cell anemia, which can be inherited
 * Pregnancy
-* Problems with bone marrow such as lymphoma, leukemia, myelodysplasia, multiple myeloma, or aplastic anemia
-* Slow blood loss (for example, from heavy menstrual periods or stomach ulcers)
+* Problems with bone marrow such as lymphoma,Â leukemia, myelodysplasia,Â multiple myeloma, orÂ aplastic anemia
+* Slow blood loss (for example, from heavy menstrual periods orÂ stomach ulcers)
 * Sudden heavy blood loss
 Symptoms
 You may have no symptoms if the anemia is mild or if the problem develops slowly. Symptoms that may occur first include:
@@ -45,16 +45,16 @@ You may have no symptoms if the anemia is mild or if the problem develops slowly
 If the anemia gets worse, symptoms may include:
 * Blue color to the whites of the eyes
 * Brittle nails
-* Desire to eat ice or other non-food things (pica syndrome)
+* Desire to eat ice or other non-food things (picaÂ syndrome)
 * Lightheadedness when you stand up
 * Pale skin color
-* Shortness of breath with mild activity or even at rest
+* Shortness of breathÂ with mild activity or even at rest
 * Sore or inflamed tongue
 * Mouth ulcers
 * Abnormal or increased menstrual bleeding
 Exams and Tests
 Your health care provider will perform a physical examination, and may find:
-* A heart murmur
+* AÂ heart murmur
 * Low blood pressure, especially when you stand up
 * Slight fever
 * Pale skin
@@ -72,5 +72,5 @@ Treatment should be directed at the cause of the anemia, and may include:
 * Erythropoietin, a medicine that helps your bone marrow make more blood cells
 * Supplements of iron, vitamin B12, folic acid, or other vitamins and minerals
 Possible Complications
-Severe anemia can cause low oxygen levels in vital organs such as the heart, and can lead to heart failure.
+Severe anemia can cause low oxygen levels in vital organs such as the heart, and can lead toÂ heart failure.
 
